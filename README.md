@@ -32,8 +32,8 @@ Heroku Deployment : [Stocks](https://project2-umesh-brett-javier-sa.herokuapp.co
 
 # Authors
 
-[Sanjula Mahathantila](https://github.com/Sanjula8)
-[Javier Barragan](https://github.com/javyb92)
-[Brett Sevy](https://github.com/BrettSevy)
+- [Sanjula Mahathantila](https://github.com/Sanjula8)
+- [Javier Barragan](https://github.com/javyb92)
+- [Brett Sevy](https://github.com/BrettSevy)
 
 
